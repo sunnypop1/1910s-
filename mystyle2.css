@@ -1,0 +1,105 @@
+@charset "utf-8";
+header {
+    width: 100%;
+    height: 600px;
+    background-image: url(web%20fashion6.jpg);
+    background-size: cover;
+}
+.container1 {
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+.container1 .box1 {
+    height: 455px;
+    display: flex;
+    flex: 1;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+
+}
+.container1 .box2 {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    background-color: #FFF290;
+}
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3 {
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    background-image: url(url);
+    background-color: #FDB273;
+}
+.box4 {
+    height: 455px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box5 {
+    height: 455px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+.box6 {
+    height: 300px;
+    display: flex;
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 20px;
+    background-color: #FFB2F7;
+}
+.container4 article h2 {
+    text-align: center;
+    background-color: #E1A2FF;
+}
